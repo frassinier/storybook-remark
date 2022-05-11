@@ -1,4 +1,6 @@
-# Storybook remark plugin
+# Remark plugin using Storybook
+
+Use a simple comment to group several docs sections using tabs (by default), details or accordion.
 
 ```mdx
 # Title
@@ -14,4 +16,6 @@ Lorem ipsum
 Lorem ipsum
 
 <!-- /group-->
+
+Lorem ipsum
 ```
